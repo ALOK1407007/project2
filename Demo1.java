@@ -1,0 +1,21 @@
+class Demo 
+{ 
+	 
+	
+	public static void add(){
+	 int a=1;
+	 int b=1;
+	 double c=1/2*a*b;
+	 System.out.println(c);
+	 }}
+	
+	class Demo1
+	{
+	public static void main(String[] args) 
+	{
+		
+		
+		
+		System.out.println(Demo.add());
+	}
+}
